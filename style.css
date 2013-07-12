@@ -55,12 +55,12 @@ footer {
 	padding: 2em 0;
 	border-top: 2px solid #ccc;
 }
-.nav-footer {
+.nav {
 	list-style: none;
 	margin: 1em 0 0 0;
 	padding: 0;
 }
-.nav-footer li {
+.nav li {
 	display: inline;
 	margin-right: 1em;
 }
